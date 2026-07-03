@@ -1,0 +1,11 @@
+{
+  "name": "dyagent",
+  "description": "회사형 멀티에이전트 개발 하네스 — 대표(메인 세션)가 회의로 요구사항을 확정하고, 조사·기획·디자인·백엔드·프론트·QA 직원 에이전트를 오케스트레이션해 기능을 구현한다. QA 실패 시 기획부터 재루프, 완료 산출물은 옵시디언 vault에 저장.",
+  "version": "0.1.0",
+  "author": {
+    "name": "DevYongE",
+    "email": "dragon5319@gmail.com"
+  },
+  "repository": "https://github.com/DevYongE/dyagent",
+  "license": "MIT"
+}

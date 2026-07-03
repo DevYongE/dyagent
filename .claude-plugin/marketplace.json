@@ -1,0 +1,16 @@
+{
+  "name": "dyagent-marketplace",
+  "owner": {
+    "name": "DevYongE",
+    "email": "dragon5319@gmail.com"
+  },
+  "description": "DevYongE의 Claude Code 플러그인 마켓플레이스",
+  "plugins": [
+    {
+      "name": "dyagent",
+      "source": "./",
+      "description": "회사형 멀티에이전트 개발 하네스 (대표 + 직원 6명 + QA 재루프 + 옵시디언 저장)",
+      "version": "0.1.0"
+    }
+  ]
+}
