@@ -1,7 +1,7 @@
 {
   "name": "dyagent",
   "description": "회사형 멀티에이전트 개발 하네스 — 대표(메인 세션)가 회의로 요구사항을 확정하고, 조사·기획·디자인·백엔드·프론트 직원과 검증(내부 QA + 외주 Codex CLI), 마케팅팀(스크린샷·블로그·인스타·유튜브)까지 오케스트레이션한다. QA 실패 시 기획부터 재루프, 완료 산출물은 옵시디언 vault에 저장.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "DevYongE",
     "email": "dragon5319@gmail.com"
